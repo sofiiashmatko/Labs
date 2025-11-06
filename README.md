@@ -14,16 +14,15 @@
 Програмний код для виконання завдання: **[Task3.py](Scripts/Task3.py)**
 ![Скріншот результату](Pictures/Task3_graphic.png)
 
-4. За допомогою python та бібліотеки telethon (https://docs.telethon.dev/en/stable/index.html) виконати наступні дії з Telegram:
-5. Програмний код для виконання завдання: **[Task4.py](Scripts/Task4.py)**
-отримати перелік користувачів будь-якого чата/пабліку
+4. За допомогою python та бібліотеки telethon (https://docs.telethon.dev/en/stable/index.html) виконати наступні дії з Telegram: Програмний код для виконання завдання: **[Task4.py](Scripts/Task4.py)**
+ - отримати перелік користувачів будь-якого чата/пабліку
+   
 ![Скріншот результату](Pictures/Task4_users.png)
 
-відправити повідомлення якомусь контакту напряму або опублікувати повідомлення в чат/паблік
+- відправити повідомлення якомусь контакту напряму або опублікувати повідомлення в чат/паблік
+  
 ![Скріншот результату](Pictures/Task5_chatbot_commands.png)
 
-
-
 6. На основі Telegram Bot API та прикладу (https://gitlab.com/Athamaxy/telegram-bot-tutorial/-/blob/main/TutorialBot.py) створити бота, що підтримує команди menu, whisper, scream
-   Програмний код для виконання завдання: **[Task5.py](Scripts/Task5.py)**
+Програмний код для виконання завдання: **[Task5.py](Scripts/Task5.py)**
 
