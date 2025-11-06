@@ -26,5 +26,8 @@
 6. На основі Telegram Bot API та прикладу (https://gitlab.com/Athamaxy/telegram-bot-tutorial/-/blob/main/TutorialBot.py) створити бота, що підтримує команди menu, whisper, scream
 Програмний код для виконання завдання: **[Task5.py](Scripts/Task5.py)**
 
+![Скріншот результату](Pictures/Task5_chatbot.png)
+
 ![Скріншот результату](Pictures/Task5_chatbot_commands.png)
+
 
