@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "price": 1500,
+        "color": "silver"
+    },
+    {
+        "id": 3,
+        "name": "Keyboard",
+        "price": 45,
+        "color": "white"
+    },
+    {
+        "id": 4,
+        "name": "Monitor",
+        "price": 350,
+        "color": "gray"
+    },
+    {
+        "id": 5,
+        "name": "Headphones",
+        "price": 85,
+        "color": "red"
+    },
+    {
+        "id": 6,
+        "name": "Webcam",
+        "price": 70,
+        "color": "black"
+    }
+]
